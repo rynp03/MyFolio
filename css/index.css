@@ -738,7 +738,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:94%;
+    width:50%;
     border-radius: 10px;
     background: #D81E5B;
 }
@@ -867,7 +867,7 @@ padding-bottom: 40px;
     text-align: center;
 }
     .portfolio-image img{
-        height: 400px;
+        height: 300px;
         width: 100%;
         position: relative;
     }
@@ -947,7 +947,6 @@ padding-bottom: 40px;
     opacity: .6;
     transition:  scale .4s ease;
 }
-
 #blog{
     background: #101010;
     display: none;
@@ -1566,7 +1565,7 @@ For devices with smaller width like mobile phone
                 box-shadow:0px 0px 0px 0px #D81E5B ;
             }
             .portfolio-image img{
-                height: 300px;
+                height: 250px;
                 width: 100%;
             }
             .portfolio-image{
@@ -2037,7 +2036,7 @@ for tabs and large phones
                 box-shadow:0px 0px 0px 0px #D81E5B ;
             }
             .portfolio-image img{
-                height: 380px;
+                height: 300px;
                 width: 100%;
                 position: relative;
             }
