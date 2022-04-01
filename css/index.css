@@ -182,7 +182,7 @@ body{
     right:4%;
     padding: 10px;
     cursor: pointer;
-    transition: all.3s ease;
+    transition: all 0.3s ease;
     opacity: .8;
 }
 .navigation-close:hover{
@@ -685,7 +685,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:100%;
+    width:90%;
     border-radius: 10px;
     background: #D81E5B;
 }
@@ -699,7 +699,7 @@ body{
     font-family: poppins;
     justify-content: center;
     transition: all .4s ease;
-    width:90%;
+    width:80%;
     border-radius: 10px;
     background: #D81E5B;
 }
@@ -712,7 +712,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:83%;
+    width:80%;
     border-radius: 10px;
     background: #D81E5B;
 }
@@ -724,7 +724,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:85%;
+    width:80%;
     border-radius: 10px;
     background: #D81E5B;
     transition: all .4s ease;
@@ -738,7 +738,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:50%;
+    width:40%;
     border-radius: 10px;
     background: #D81E5B;
 }
@@ -750,7 +750,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:84%;
+    width:80%;
     border-radius: 10px;
     transition: all .4s ease;
     background: #D81E5B;
@@ -1565,11 +1565,11 @@ For devices with smaller width like mobile phone
                 box-shadow:0px 0px 0px 0px #D81E5B ;
             }
             .portfolio-image img{
-                height: 250px;
+                height: 200px;
                 width: 100%;
             }
             .portfolio-image{
-                height: 300px;
+                height: 200px;
                 width: 90%;
             }
             #navigation-bar img{
