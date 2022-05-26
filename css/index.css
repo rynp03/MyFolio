@@ -867,12 +867,12 @@ padding-bottom: 40px;
     text-align: center;
 }
     .portfolio-image img{
-        height: 300px;
+        height: 260px;
         width: 100%;
         position: relative;
     }
     .portfolio-image{
-        height: 400px;
+        height: 300px;
         width: 40%;
     }
 .portfolio-image img::before{
@@ -2036,7 +2036,7 @@ for tabs and large phones
                 box-shadow:0px 0px 0px 0px #D81E5B ;
             }
             .portfolio-image img{
-                height: 300px;
+                height: 250px;
                 width: 100%;
                 position: relative;
             }
